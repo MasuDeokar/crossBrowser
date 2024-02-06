@@ -1,0 +1,159 @@
+12:04:34.369 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.17.0
+12:04:34.372 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+12:04:34.594 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\browserstack.yml
+12:04:34.594 [main] ERROR c.b.config.BrowserStackConfig - [Invalid Path] Config file does not exist at any parent directory of C:\Users\Dell\eclipse-workspace\CrossBrowserTest. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+12:04:34.595 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - java.lang.RuntimeException: [Invalid Path] Config file does not exist at any parent directory of C:\Users\Dell\eclipse-workspace\CrossBrowserTest. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+	at com.browserstack.config.BrowserStackConfig.getInstance(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:560)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:572)
+
+14:39:01.360 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.17.0
+14:39:01.375 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+14:39:01.986 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\browserstack.yml
+14:39:01.986 [main] ERROR c.b.config.BrowserStackConfig - [Invalid Path] Config file does not exist at any parent directory of C:\Users\Dell\eclipse-workspace\CrossBrowserTest. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+14:39:01.988 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - java.lang.RuntimeException: [Invalid Path] Config file does not exist at any parent directory of C:\Users\Dell\eclipse-workspace\CrossBrowserTest. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+	at com.browserstack.config.BrowserStackConfig.getInstance(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:560)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:572)
+
+14:40:59.115 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.17.0
+14:40:59.121 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+14:40:59.513 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\browserstack.yml
+14:40:59.513 [main] ERROR c.b.config.BrowserStackConfig - [Invalid Path] Config file does not exist at any parent directory of C:\Users\Dell\eclipse-workspace\CrossBrowserTest. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+14:40:59.515 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - java.lang.RuntimeException: [Invalid Path] Config file does not exist at any parent directory of C:\Users\Dell\eclipse-workspace\CrossBrowserTest. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+	at com.browserstack.config.BrowserStackConfig.getInstance(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:560)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:572)
+
+14:43:57.922 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.17.0
+14:43:57.931 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+14:43:58.456 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\browserstack.yml
+14:43:58.456 [main] ERROR c.b.config.BrowserStackConfig - [Invalid Path] Config file does not exist at any parent directory of C:\Users\Dell\eclipse-workspace\CrossBrowserTest. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+14:43:58.458 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - java.lang.RuntimeException: [Invalid Path] Config file does not exist at any parent directory of C:\Users\Dell\eclipse-workspace\CrossBrowserTest. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+	at com.browserstack.config.BrowserStackConfig.getInstance(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:560)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:572)
+
+14:48:44.421 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.17.0
+14:48:44.429 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+14:48:44.876 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\browserstack.yml
+14:48:44.877 [main] ERROR c.b.config.BrowserStackConfig - [Invalid Path] Config file does not exist at any parent directory of C:\Users\Dell\eclipse-workspace\CrossBrowserTest. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+14:48:44.879 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - java.lang.RuntimeException: [Invalid Path] Config file does not exist at any parent directory of C:\Users\Dell\eclipse-workspace\CrossBrowserTest. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+	at com.browserstack.config.BrowserStackConfig.getInstance(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:560)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:572)
+
+14:52:25.367 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.17.0
+14:52:25.378 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+14:52:25.954 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\browserstack.yml
+14:52:25.954 [main] ERROR c.b.config.BrowserStackConfig - [Invalid Path] Config file does not exist at any parent directory of C:\Users\Dell\eclipse-workspace\CrossBrowserTest. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+14:52:25.956 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - java.lang.RuntimeException: [Invalid Path] Config file does not exist at any parent directory of C:\Users\Dell\eclipse-workspace\CrossBrowserTest. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+	at com.browserstack.config.BrowserStackConfig.getInstance(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:560)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:572)
+
+14:56:44.680 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.17.0
+14:56:44.692 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+14:56:45.318 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\browserstack.yml
+14:56:45.318 [main] ERROR c.b.config.BrowserStackConfig - [Invalid Path] Config file does not exist at any parent directory of C:\Users\Dell\eclipse-workspace\CrossBrowserTest. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+14:56:45.320 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - java.lang.RuntimeException: [Invalid Path] Config file does not exist at any parent directory of C:\Users\Dell\eclipse-workspace\CrossBrowserTest. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+	at com.browserstack.config.BrowserStackConfig.getInstance(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:560)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:572)
+
+15:00:10.832 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.17.0
+15:00:10.837 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+15:00:11.353 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\browserstack.yml
+15:00:11.354 [main] ERROR c.b.config.BrowserStackConfig - [Invalid Path] Config file does not exist at any parent directory of C:\Users\Dell\eclipse-workspace\CrossBrowserTest. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+15:00:11.366 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - java.lang.RuntimeException: [Invalid Path] Config file does not exist at any parent directory of C:\Users\Dell\eclipse-workspace\CrossBrowserTest. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+	at com.browserstack.config.BrowserStackConfig.getInstance(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:560)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:572)
+
+15:16:20.847 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.17.0
+15:16:20.868 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+15:16:21.565 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\Dell\eclipse-workspace\CrossBrowserTest\browserstack.yml
+15:16:21.740 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+15:16:22.919 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+15:16:29.504 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+15:17:27.988 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+15:17:40.580 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.17.0
+15:17:40.592 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+15:17:41.111 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\Dell\eclipse-workspace\CrossBrowserTest\browserstack.yml
+15:17:41.244 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+15:17:41.817 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+15:17:46.893 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+15:17:57.836 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+15:17:58.932 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/ssumnuhnuyjk3hhmsiibrz68clt6jxl8s2up93ce to view build report, insights, and many more debugging information all at one place!
+
+15:19:38.212 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.17.0
+15:19:38.225 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+15:19:38.665 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\Dell\eclipse-workspace\CrossBrowserTest\browserstack.yml
+15:19:38.760 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+15:19:39.318 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+15:19:44.477 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+15:19:54.703 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+15:20:18.130 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/emf93jyrsc0xtakhzhjt3y66i8sgwokj9dejcamh to view build report, insights, and many more debugging information all at one place!
+
+15:20:18.624 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/33597d498f056d20f8abc3c61824b76ce04150fc
+15:20:18.624 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+15:25:07.513 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.17.0
+15:25:07.518 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+15:25:07.968 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\Dell\eclipse-workspace\CrossBrowserTest\browserstack.yml
+15:25:08.069 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+15:25:08.585 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+15:25:13.566 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+15:25:30.782 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+15:25:32.039 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/illz9uzxjimcjtxacdqejrogxzssun5fy854gobv to view build report, insights, and many more debugging information all at one place!
+
+15:26:58.239 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.17.0
+15:26:58.256 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+15:26:59.211 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\Dell\eclipse-workspace\CrossBrowserTest\browserstack.yml
+15:26:59.459 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+15:27:00.210 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+15:27:05.466 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+15:27:19.490 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+15:28:07.223 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/csmtuxzudlxe77j44hoisapwtwtvhsoazfmehvwn to view build report, insights, and many more debugging information all at one place!
+
+15:28:08.747 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/3a9547bbfae38ece1f23778d59c390d433169e17
+15:28:08.748 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
